@@ -2,9 +2,9 @@ import React from 'react';
 import Navbar from '../organisms/Navbar';
 
 const Home = () => (
-    <>
-        <Navbar></Navbar>
-    </>
+    <div className="container-fluid">
+        <Navbar/>
+    </div>
 )
 
 export default Home
