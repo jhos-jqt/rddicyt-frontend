@@ -1,8 +1,7 @@
-import React from 'react';
-import Navbar from '../organisms/Navbar';
+import React from 'react'
 
 const Home = () => (
-    <Navbar/>
+    <h1>Home</h1>
 )
 
 export default Home
